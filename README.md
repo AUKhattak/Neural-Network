@@ -20,9 +20,9 @@
 #### Task-1 (Evaluation and confusion Matrix)
 [Final Project/Task 1-Evaluation-&-confusion-metrices.ipynb](https://github.com/AUKhattak/Neural-Network/blob/main/Final%20Project/Task-1-Evaluation-%26-confusion-metrices.ipynb)
 
-#### Task-2
+#### Task-2 (Implementation of LSTM)
 [Final Project/Task 2-LSTM.ipynb](https://github.com/AUKhattak/Neural-Network/blob/main/Final%20Project/Task%202-LSTM.ipynb)
 
 
-#### Task-3
+#### Task-3 (Implementing Neural Network with Data Augmentation)
 [Final Project/task3-LSTM.ipynb](https://github.com/AUKhattak/Neural-Network/blob/main/Final%20Project/task3-LSTM.ipynb)
